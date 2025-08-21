@@ -54,5 +54,5 @@ We evaluate models on their ability to:
 ## Repository Contents
 - `Spam Detecting.ipynb` → Jupyter Notebook with code for preprocessing, training, and evaluation.  
 - `Spam Detecting.pdf` → Full project report with methodology, results, and discussion.  
-- `dataset/` → Email dataset used for training and testing (to be added).  
+- `Spam Filtering Data.csv` → Email dataset used for training and testing (to be added).  
 
