@@ -18,7 +18,7 @@ We evaluate models on their ability to:
 ## Methodology
 1. **Dataset**
    - The dataset consists of labeled emails (spam vs. ham).  
-   - Preprocessing includes text cleaning, tokenization, stopword removal, and feature extraction using **TF-IDF**.  
+   - Preprocessing includes text cleaning, tokenization, stopword removal, and feature extraction.  
 
 2. **Models Implemented**
    - Naïve Bayes: MultinomialNB, GaussianNB, BernoulliNB  
