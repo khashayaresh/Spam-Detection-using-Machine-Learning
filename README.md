@@ -48,7 +48,6 @@ We evaluate models on their ability to:
   - Simple models (Naïve Bayes) are **fast & interpretable** but risk false positives.  
   - Complex models (SVM, Random Forest, GBM) are **more accurate** but slower and resource-intensive.  
 
-**Best trade-off:** Logistic Regression & Random Forest provide strong accuracy with manageable complexity:contentReference[oaicite:0]{index=0}.  
 
 ---
 
