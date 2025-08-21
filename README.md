@@ -56,6 +56,3 @@ We evaluate models on their ability to:
 - `Spam Detecting.pdf` → Full project report with methodology, results, and discussion.  
 - `dataset/` → Email dataset used for training and testing (to be added).  
 
-
-# Run Jupyter Notebook
-jupyter notebook "Spam Detecting.ipynb"
